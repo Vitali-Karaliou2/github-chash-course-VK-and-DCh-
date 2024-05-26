@@ -2,8 +2,8 @@ function sayHi() {
     alert("Hello from Git!");
 }
 
-function work() {
-    alert("Work, work!");
+function work(n) {
+    alert(`Work,work ${n} times harder!`);
 }
 
 function sayBye() {
