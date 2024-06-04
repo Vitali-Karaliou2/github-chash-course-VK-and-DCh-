@@ -14,11 +14,6 @@ function new1() {
     alert(`Function new1() is now available!`);
 }
 
-function newA() {
-    alert(`Function newA() is now available!`);
-}
-
 function newB() {
     alert(`Function newB() is now available!`);
 }
-
