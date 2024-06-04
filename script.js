@@ -18,3 +18,6 @@ function newX() {
     alert(`Function newX() is now available!`);
 }
 
+function newY() {
+    alert(`Function newY() is now available!`);
+}
