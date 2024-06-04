@@ -18,4 +18,7 @@ function newA() {
     alert(`Function newA() is now available!`);
 }
 
+function newB() {
+    alert(`Function newB() is now available!`);
+}
 
