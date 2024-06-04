@@ -21,3 +21,7 @@ function newX() {
 function newY() {
     alert(`Function newY() is now available!`);
 }
+
+function newZ() {
+    alert(`Function newZ() is now available!`);
+}
