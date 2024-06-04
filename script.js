@@ -22,6 +22,3 @@ function newB() {
     alert(`Function newB() is now available!`);
 }
 
-function newC() {
-    alert(`Function newC() is now available!`);
-}
